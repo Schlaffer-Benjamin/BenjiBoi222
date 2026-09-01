@@ -14,9 +14,6 @@ Fun fact: I always learn by taking on projects that I have no prior knowledge of
 ![](https://streak-stats.demolab.com?user=BenjiBoi222&theme=dark&hide_border=false)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenjiBoi222&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=BenjiBoi222&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
